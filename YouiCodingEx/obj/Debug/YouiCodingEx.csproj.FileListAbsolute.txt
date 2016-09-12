@@ -1,0 +1,8 @@
+c:\Projects\YouiCodingEx\YouiCodingEx\bin\Debug\YouiCodingEx.exe.config
+c:\Projects\YouiCodingEx\YouiCodingEx\bin\Debug\YouiCodingEx.exe
+c:\Projects\YouiCodingEx\YouiCodingEx\bin\Debug\YouiCodingEx.pdb
+c:\Projects\YouiCodingEx\YouiCodingEx\obj\Debug\YouiCodingEx.exe
+c:\Projects\YouiCodingEx\YouiCodingEx\obj\Debug\YouiCodingEx.pdb
+c:\Projects\YouiCodingEx\YouiCodingEx\bin\Debug\log4net.dll
+c:\Projects\YouiCodingEx\YouiCodingEx\bin\Debug\log4net.xml
+c:\Projects\YouiCodingEx\YouiCodingEx\obj\Debug\YouiCodingEx.csprojResolveAssemblyReference.cache

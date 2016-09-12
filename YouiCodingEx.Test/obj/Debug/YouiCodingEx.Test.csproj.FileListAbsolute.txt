@@ -1,0 +1,10 @@
+c:\Projects\YouiCodingEx\YouiCodingEx.Test\bin\Debug\YouiCodingEx.Test.dll
+c:\Projects\YouiCodingEx\YouiCodingEx.Test\bin\Debug\YouiCodingEx.Test.pdb
+c:\Projects\YouiCodingEx\YouiCodingEx.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Projects\YouiCodingEx\YouiCodingEx.Test\obj\Debug\YouiCodingEx.Test.csprojResolveAssemblyReference.cache
+c:\Projects\YouiCodingEx\YouiCodingEx.Test\obj\Debug\YouiCodingEx.Test.dll
+c:\Projects\YouiCodingEx\YouiCodingEx.Test\obj\Debug\YouiCodingEx.Test.pdb
+c:\Projects\YouiCodingEx\YouiCodingEx.Test\bin\Debug\YouiCodingEx.exe
+c:\Projects\YouiCodingEx\YouiCodingEx.Test\bin\Debug\log4net.dll
+c:\Projects\YouiCodingEx\YouiCodingEx.Test\bin\Debug\YouiCodingEx.pdb
+c:\Projects\YouiCodingEx\YouiCodingEx.Test\bin\Debug\log4net.xml
